@@ -1,6 +1,12 @@
 # CS50's Introduction to Artificial Intelligence with Python
 
 This repository contains my solutions to the projects from Harvard's [CS50 Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/). Each project showcases the application of core data structure and AI algorithms including search algorithms, knowledge representation, probabilistic models, optimization, machine learning, and natural language processing.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f43fc367-b73f-40ee-8490-2d0af3d9f9c4" alt="CS50AI Certificate" width="600"/>
+  <p><em>This is the certificate I received upon successful completion of CS50's Introduction to Artificial Intelligence with Python.</em></p>
+</div>
+
+
 
 ---
 
