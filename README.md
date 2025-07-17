@@ -75,7 +75,7 @@ This repository contains my solutions to the projects from Harvard's [CS50 Intro
 ---
 
 ## 🚀 How to Run
-Each project is self-contained. Navigate to the respective folder and follow the instructions in the README or source code comments to execute the program.
+Each project is self-contained. Navigate to the respective folder and downloads the files.
 
 ---
 
